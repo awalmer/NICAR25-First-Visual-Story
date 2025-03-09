@@ -16,3 +16,4 @@ Make personal JSON and create portfolio view of personal projects.
 
 Reverse proxy -- publish to a subfolder of main, pulling from separate source rather than CNS. 
 
+Project URL: https://awalmer.github.io/NICAR25-First-Visual-Story/ 
